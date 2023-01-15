@@ -534,4 +534,11 @@
         justify-items: center;
     }
 
+    /* copy-right  */
+    .copy-right {
+        height: auto;
+    }
+    .copy-right p{
+        padding: 10px;
+    }
 }
